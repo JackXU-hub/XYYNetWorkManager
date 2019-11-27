@@ -29,8 +29,12 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
+  
+  s.subspec 'XYYNetWorkManager' do |c|
+      c.source_files = 'XYYNetWorkManager/Classes/XYYNetWorkManager/**/*'
+  end
 
-  s.source_files = 'XYYNetWorkManager/Classes/**/*'
+  #s.source_files = 'XYYNetWorkManager/Classes/**/*'
   
   # s.resource_bundles = {
   #   'XYYNetWorkManager' => ['XYYNetWorkManager/Assets/*.png']

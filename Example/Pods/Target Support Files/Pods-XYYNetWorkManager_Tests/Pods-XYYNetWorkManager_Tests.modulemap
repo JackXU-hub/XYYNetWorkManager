@@ -1,0 +1,6 @@
+framework module Pods_XYYNetWorkManager_Tests {
+  umbrella header "Pods-XYYNetWorkManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

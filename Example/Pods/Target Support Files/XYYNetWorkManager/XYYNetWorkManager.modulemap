@@ -1,0 +1,6 @@
+framework module XYYNetWorkManager {
+  umbrella header "XYYNetWorkManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

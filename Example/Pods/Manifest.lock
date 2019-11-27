@@ -1,0 +1,18 @@
+PODS:
+  - XYYNetWorkManager (0.1.0):
+    - XYYNetWorkManager/XYYNetWorkManager (= 0.1.0)
+  - XYYNetWorkManager/XYYNetWorkManager (0.1.0)
+
+DEPENDENCIES:
+  - XYYNetWorkManager (from `../`)
+
+EXTERNAL SOURCES:
+  XYYNetWorkManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XYYNetWorkManager: 6aaf4ffbba194c36b988f8e116261be046c1666a
+
+PODFILE CHECKSUM: a8a1ff227bf424fecf300abc3c8b8adc8e4b5c87
+
+COCOAPODS: 1.8.4
